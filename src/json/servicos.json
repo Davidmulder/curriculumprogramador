@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icone": "FaCode",
+    "titulo": "Desenvolvedor de Software Sênior",
+    "resumo": "Desenvolvimento de soluções robustas para diversas plataformas e linguagens de programação."
+  },
+  {
+    "id": 2,
+    "icone": "FaProjectDiagram",
+    "titulo": "Integração de Sistemas",
+    "resumo": "Conectando diferentes sistemas para proporcionar automação e eficiência nos processos."
+  },
+  {
+    "id": 3,
+    "icone": "FaChalkboardTeacher",
+    "titulo": "Docente de Lógica de Programação",
+    "resumo": "Ensino prático e teórico de lógica de programação, Java e Portugol."
+  },
+  {
+    "id": 4,
+    "icone": "FaChartBar",
+    "titulo": "Analista de BI - Business Intelligence",
+    "resumo": "Criação de KPIs, dashboards e datalakes para inteligência de negócios."
+  },
+  {
+    "id": 5,
+    "icone": "FaClipboardList",
+    "titulo": "Product Owner",
+    "resumo": "Liderança de projetos ágeis, focando em resultados e desempenho."
+  }
+]

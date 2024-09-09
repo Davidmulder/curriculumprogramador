@@ -1,0 +1,38 @@
+.servicos {
+    padding: 2rem 0;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+.servicosContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.servico {
+    width: 300px;
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.servico h3 {
+    margin: 1rem 0 0.5rem;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.servico p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.icone {
+    font-size: 3rem;
+    color: var(--cor-primaria);
+    margin-bottom: 1rem;
+}
