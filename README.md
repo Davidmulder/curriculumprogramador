@@ -3,7 +3,7 @@
   <img src="img/logo.png"  width="120">
 <br>
 <br>
-Site  com  a Dinâmica do React
+Site  com  a Dinâmica no React + Json
 </h1>
 
 <p align="center">

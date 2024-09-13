@@ -24,18 +24,18 @@
 
 {
    "id":3,
-   "titulo": "Site do Programador - React + Json",
+   "titulo": "Site do Desenvolvedor - (React + Json)",
    "legenda": "Feito todo em React com Json",
    "foto": "",
    "github": "https://github.com/Davidmulder/curriculumprogramador",
-   "texto": "<h3>Objetivos</h3><br>https://theproblemsgames.com.br/<br><h3>Objetivos</h3>Criação de lista de jogos ligada ao banco de dados MySQL.<br>Proteção de usuário.<br>CRUD (cadastro, edição, deleção, listagem).<br>Utilização de rotas.<br>Validação de formulário com Flask WTF.<br>Criptografia das senhas com BCRYPT.<br><h2>Tecnologia usada</h2><br>⚛️ Framework Flask.<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br>"
+   "texto": "<h3>Objetivos</h3>Criação Portifolio em React Native <br>Projetos realizado com links ao github.<br>"
   
 
 },
 
 {
    "id":4,
-   "titulo": "Dashbord  MKS agencia",
+   "titulo": "Dashbord  MKS agencia (Power BI)",
    "legenda": "Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato excel. Apresente um documento em Excell explicando sucintamente o raciocínio utilizado para transformar a tabela bem como possíveis inconsistências encontradas. Apresente também a tabela obtida na transformação e os códigos desenvolvidos caso utilize Python e/ou R",
    "foto": "",
    "github": "https://github.com/Davidmulder/MKS-Agencia",
@@ -46,7 +46,7 @@
 
 {
    "id":5,
-   "titulo": "Dashbord Warterservice  ",
+   "titulo": "Dashbord Warterservice (Power BI)  ",
    "legenda": "Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato excel. Apresente um documento em Word ou PDF explicando sucintamente o raciocínio utilizado para transformar a tabela bem como possíveis inconsistências encontradas. Apresente também a tabela obtida na transformação e os códigos desenvolvidos caso utilize Python e/ou R",
    "foto": "",
    "github": "https://github.com/Davidmulder/warterservice",
@@ -57,7 +57,7 @@
 
 {
    "id":6,
-   "titulo": "BestMilhas ",
+   "titulo": "BestMilhas (React) Product Owner ",
    "legenda": "Criação de tema em worpress para bestmilhas <br>Minha participação no projeto foi de Product Owner, gerenciando um equipe de programadores React, e de programador em wordpress criando Tema e plugin sobre o designer ja aprovado",
    "foto": "",
    "github": "https://github.com/Davidmulder/bestmilhas",
@@ -68,7 +68,7 @@
 
 {
    "id":7,
-   "titulo": "Desafio (PHP)",
+   "titulo": "Desafio (PHP) Laravel",
    "legenda": "Laravel com  banco de dados Sqlite ",
    "foto": "",
    "github": "https://github.com/Davidmulder/desafiolaravel.git",
@@ -121,7 +121,7 @@
 },
 {
    "id":12,
-   "titulo": "SOMECDH PPDH",
+   "titulo": "SOMECDH PPDH (PHP)",
    "legenda": "Desenvolvimento de plataforma web e aplicativo mobile com o objetivo de atender o Programa de Proteção dos Direitos Humanos - PPDDH. Não foi usado nenhum framework apenas php e banco mysql",
    "foto": "",
    "github": "https://github.com/Davidmulder/ (privado)",
