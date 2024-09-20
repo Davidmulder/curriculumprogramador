@@ -22,7 +22,7 @@ export default function Post(){
 
     return(
         <PostModelo
-        fotoCapa={`/assets/projetos/${post.id}/capa.png`}
+        fotoCapa={`/assets/projetos/${post.foto}/capa.png`}
         titulo={post.titulo}
         >
             <h4>{post.legenda}</h4>
@@ -30,8 +30,8 @@ export default function Post(){
                         <div className="imagemItem">
                         <img 
                             className="imagemCentralizada" 
-                            src={`/assets/projetos/${post.id}/1.png`} 
-                            alt="Descrição da Imagem 1" 
+                            src={`/assets/projetos/${post.foto}/1.png`} 
+                            alt={post.legenda} 
                         />
 
                         
@@ -40,8 +40,8 @@ export default function Post(){
                         <div className="imagemItem">
                         <img 
                             className="imagemCentralizada" 
-                            src={`/assets/projetos/${post.id}/2.png`} 
-                            alt="Descrição da Imagem 2" 
+                            src={`/assets/projetos/${post.foto}/2.png`} 
+                            alt={post.legenda} 
                         />
 
                         
