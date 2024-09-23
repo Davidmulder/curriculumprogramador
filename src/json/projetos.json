@@ -135,10 +135,20 @@
    {
       "id":13,
       "titulo": "Sansão PET - (React + Json) ",
-      "legenda": "Feito todo em React com Json ",
+      "legenda": "Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca ",
       "foto": "13",
       "github": "https://github.com/Davidmulder/petshopsansao",
-      "texto": "<h2>Hospedado</h2>  vercel https://petshopsansao.vercel.app/ <br><br><h2>Introdução:</h2><br>•Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . <br>É Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca. Diferencie o Vite do CRA e conheça as vantagens do uso do Styled Components Utilize styled-components para criação de uma NavBar e estilização de um banner Projete e implemente componentes React para exibir imagens e legendas Aplique estilos personalizados e acessíveis para uma galeria de fotos Adicione uma barra lateral de imagens populares e footer <br><br><br>"
+      "texto": "<h2>Hospedado</h2>  vercel https://petshopsansao.vercel.app/ <br><br><h2>📖 Descrição do Projeto</h2><br>Este projeto simula uma loja online para pets, focando na exibição de produtos, acessórios e promoções.<br> Além disso, ele se destaca por apresentar boas práticas de estilização e otimização no desenvolvimento de Single Page Applications (SPA).Tecnologias utilizadas: React - Framework JavaScript para construção da interface de usuário.<br>Vite - Ferramenta de build e desenvolvimento mais rápida que o CRA (Create React App)<br>.Styled Components - Biblioteca para estilização em CSS, dentro do JS.<br><br><br>"
+     
+   
+   },
+   {
+      "id":14,
+      "titulo": "Top Games - (React + API) ",
+      "legenda": "Um site de notícias e informações sobre o mundo dos Games, desenvolvido em React Native. Este projeto foi criado para fornecer uma experiência dinâmica e interativa para gamers que desejam se manter atualizados sobre as últimas novidades, jogos e tendências da indústria dos games. ",
+      "foto": "14",
+      "github": "https://github.com/Davidmulder/topgames",
+      "texto": "<h2>Hospedado</h2>  vercel https://topgames-rho.vercel.app/ <br><br><h2>Introdução:</h2><br>•Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . <br>É Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca. Diferencie o Vite do CRA e conheça as vantagens do uso do Styled Components Utilize styled-components para criação de uma NavBar e estilização de um banner Projete e implemente componentes React para exibir imagens e legendas Aplique estilos personalizados e acessíveis para uma galeria de fotos Adicione uma barra lateral de imagens populares e footer <br><br><br>"
      
    
    }

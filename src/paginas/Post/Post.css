@@ -21,6 +21,35 @@
     color: #666; /* Cor mais suave para a legenda */
 }
 
+.readmeContainer {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    flex-direction: column;
+    max-width: 800px;        /* Define uma largura máxima para a área do README */
+    margin: 50px auto;       /* Centraliza a div na página */
+    padding: 20px;
+    background-color: #f9f9f9; /* Cor de fundo para destaque */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+}
+
+.readmeContainer div {
+    width: 100%;
+    line-height: 1.6;
+}
+
+.imagemItem {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.imagemCentralizada {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
 
 
 

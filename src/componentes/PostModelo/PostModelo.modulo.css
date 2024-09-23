@@ -1,55 +1,38 @@
 .postModeloContainer {
-    color: var(--cor-fonte-post);
-    position: relative;
+    display: flex;
+    flex-direction: column;  /* Alinha os itens verticalmente */
+    align-items: center;     /* Centraliza os itens horizontalmente */
+    justify-content: center; /* Centraliza os itens verticalmente */
+    min-height: 100vh;       /* Garante que o container ocupe a altura total da tela */
+    text-align: center;      /* Centraliza o texto dentro do container */
+    padding: 2rem;
 }
- 
-.fotoCapa, .titulo {
-    height: 204px;
-}
- 
-.fotoCapa {
-    width: 100%;
-    background-image: url('assets/sobre_mim_capa.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    opacity: 0.3;
-    position: absolute;
-    top: 0;
-    z-index: -1;
-    height: 204px;
-}
- 
+
 .titulo {
     font-family: var(--fonte-secundaria);
-    padding: 0 7.5rem;
-    font-size: 4rem;
-    display: flex;
-    align-items: center;
+    font-size: 3rem;
+    margin-bottom: 2rem; /* Espaço entre o título e o conteúdo */
 }
- 
-.postConteudoContainer {
-    padding: 2.5rem 7.5rem 4.5rem;
-}
- 
-@media (max-width: 744px) {
-    .postConteudoContainer {
-        padding: 2rem 1.5rem 1.5rem;
-    }
-}
- 
-@media (max-width: 744px) {
-    .fotoCapa, .titulo {
-        height: 104px;
-        background-image: url('assets/sobre_mim_capa.png'); /* Imagem específica para dispositivos móveis */
 
-    }
- 
+.postConteudoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Centraliza o conteúdo horizontalmente */
+    justify-content: center; /* Centraliza o conteúdo verticalmente */
+    width: 100%;         /* Faz com que o container ocupe toda a largura */
+    max-width: 800px;    /* Limita a largura máxima para manter o conteúdo legível */
+    padding: 1rem;
+}
+
+/* Responsividade para telas pequenas */
+@media (max-width: 744px) {
     .titulo {
-        padding: 0 1rem;
         font-size: 2rem;
+        margin-bottom: 1rem;
     }
- 
+
     .postConteudoContainer {
-        padding: 2rem 1rem 1.5rem;
+        padding: 1rem;
+        max-width: 100%;  /* Ajusta a largura máxima para telas menores */
     }
 }
