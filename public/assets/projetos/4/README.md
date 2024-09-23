@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/3/img/logo.png"  width="120">
+  <img src="/assets/projetos/4/img/logo.jpg" alt="mobile" align="center" height="120">
 <br>
 <br>
 🌐 Dashbord desenpenho de campanha em Rede Social - MKS Agência
@@ -19,7 +19,7 @@ Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato 
 
 ### Apresentação
 
-<img src="/assets/projetos/4/img/logo.jpg" alt="mobile" align="center" height="120"><br>
+
 
 <img src="/assets/projetos/4/img/01.png" alt="mobile" align="center" height="425"><br><br>
 

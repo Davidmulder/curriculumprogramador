@@ -5,7 +5,7 @@
       "legenda": "Sistema de cadastro de Usuarios e Contatos",
       "foto": "8",
       "github": "https://github.com/Davidmulder/Cadastro-de-contatos-CShap",
-      "texto": "<h4>Tecnologia usada</h4>Usado do modelo de framework Visual studio, padrão MVC <br><br>💹 C# — para framework visual studio 2020 <br>💹 Banco de dados Sql server<br><br>"
+      "texto": ""
      
    
    },
@@ -16,7 +16,7 @@
       "legenda": "Projeto feito pela alura apenas para exercita conhecimentos no framework wordpress",
       "foto": "9",
       "github": "https://github.com/Davidmulder/paraturismo",
-      "texto": "<h2>Tecnologia usada</h2><br>⚛️ CMS Wordpress (plugin Elemento).<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br><br><br>"
+      "texto": ""
      
    
    },
@@ -27,7 +27,7 @@
       "legenda": "Projetos desenvolvido pela equipe de desenvolvimento com objetivo de disponibilizar os anuncios impresso do jornal O Liberal para web e mobile",
       "foto": "10",
       "github": "https://github.com/Davidmulder/classificadosliberal",
-      "texto": "<h2>Tecnologia usada</h2><br>⚛️ASP — ASP classico para servidor windows<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br>📄 ORACLE — para Back end <h2>Modelo</h2> Hospedado pelo LiBnet<br>Todos os direito autoras pela jornal oliberal:<br>Modelo apenas ilustratorio<br><br><br>"
+      "texto": ""
      
    
    },
@@ -38,7 +38,7 @@
       "legenda": "Corrida do Sal 2019, a mais tradicional competição do verão paraense chega a sua 16° edição! A prova tem o percurso de 8 km e será realizada no dia 27 de julho, com largada e chegada na orla do Maçarico, em Salinas. <br>São aguardados mais de 1.500 corredores. Projetos desenvolvido pela equipe de desenvolvimento com objetivo de fazer a cobertura do evento para web e mobile",
       "foto": "11",
       "github": "https://github.com/Davidmulder/corridadosal",
-      "texto": "<h2>Tecnologia usada</h2><br>⚛️ CMS Wordpress.<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br><br><br>"
+      "texto": ""
      
    
    },
@@ -49,7 +49,7 @@
       "legenda": "Desenvolvimento de plataforma web e aplicativo mobile com o objetivo de atender o Programa de Proteção dos Direitos Humanos - PPDDH. Não foi usado nenhum framework apenas php e banco mysql",
       "foto": "12",
       "github": "https://github.com/Davidmulder/ (privado)",
-      "texto": "<h2>Tecnologia usada</h2>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br><br><br>"
+      "texto": ""
      
    
    },
@@ -61,7 +61,7 @@
       "legenda": "Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato excel. Apresente um documento em Excell explicando sucintamente o raciocínio utilizado para transformar a tabela bem como possíveis inconsistências encontradas. Apresente também a tabela obtida na transformação e os códigos desenvolvidos caso utilize Python e/ou R",
       "foto": "4",
       "github": "https://github.com/Davidmulder/MKS-Agencia",
-      "texto": "<h3>Objetivos</h3>Gráfico de série histórica de concentração dos parâmetros<br>Indicadores e filtros que julgar adequados.<br>Design e usabilidade do relatório (posicionamento de botões, textos, filtros e visuais de modo a facilitar a análise dos dados);<h3>Tecnologia usada</h3>:Power BI - Excell<br>DAX Dax **POWER BI ** ” Criação de Dash bord em Power BI <br>JQuery ” para cadastro de imagens R para Excell"
+      "texto": ""
      
    
    },
@@ -72,7 +72,7 @@
       "legenda": "Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato excel. Apresente um documento em Word ou PDF explicando sucintamente o raciocínio utilizado para transformar a tabela bem como possíveis inconsistências encontradas. Apresente também a tabela obtida na transformação e os códigos desenvolvidos caso utilize Python e/ou R",
       "foto": "5",
       "github": "https://github.com/Davidmulder/warterservice",
-      "texto": "<h3>Objetivos</h3>Gráfico de série histórica de concentração dos parâmetros<br>Tabela contendo a média, mediana e valores máximo e mínimo para cada parâmetro;<br>Indicadores e filtros que julgar adequados.<br>Design e usabilidade do relatório (posicionamento de botões, textos, filtros e visuais de modo a facilitar a análise dos dados);<h3>Tecnologia usada</h3>:Power BI - Excell<br>DAX Dax **POWER BI ** ” Criação de Dash bord em Power BI <br>JQuery ” para cadastro de imagens R para Excell"
+      "texto": ""
      
    
    },
@@ -83,7 +83,7 @@
       "legenda": "Criação de tema em worpress para bestmilhas <br>Minha participação no projeto foi de Product Owner, gerenciando um equipe de programadores React, e de programador em wordpress criando Tema e plugin sobre o designer ja aprovado",
       "foto": "6",
       "github": "https://github.com/Davidmulder/bestmilhas",
-      "texto": "<h2>Tecnologia usada</h2><br>⚛️  Wordpress — Tema criado sobre o designer ja criado.<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br>"
+      "texto": ""
      
    
    },
@@ -94,7 +94,7 @@
       "legenda": "Laravel com  banco de dados Sqlite ",
       "foto": "7",
       "github": "https://github.com/Davidmulder/desafiolaravel",
-      "texto": "<h2>Página de Cadastro (Laravel/Blade):</h2><br>• Crie uma página de registro de usuário com os seguintes campos:<br>• Nome (obrigatório, mínimo de 3 caracteres, máximo de 50 caracteres).<br>• E-mail (obrigatório, deve ser um e-mail válido).<br>• Senha (obrigatória, mínimo de 6 caracteres, máximo de 20 caracteres).<br>• Confirmação de Senha (obrigatória e deve coincidir com a senha).<br><h2>Validações (Laravel):</h2><br>• Utilize as ferramentas de validação fornecidas pelo Laravel para validar os campos do formulário.<br>• Exiba mensagens de erro apropriadas quando os campos não atenderem às regras especificadas acima.<br><h2>Validores criados</h2><br>No formulario [UsersFormRequest.php]<br><h2>Na Api </h2>[ApiUsersRequest.php]<br><h2>API de Back-end (Laravel):</h2><br>• Crie uma API RESTful em Laravel para processar o registro de usuários.<br>• Valide os dados recebidos da solicitação, incluindo a confirmação de senha.<br>• Armazene os usuários registrados no banco de dados PostgreSQL.<br>• Retorne uma resposta apropriada para o front-end (por exemplo, sucesso ou erro) no formato JSON.<br><br><br>"
+      "texto": ""
      
    
    },
@@ -105,7 +105,7 @@
       "legenda": "O PROBLEMS GAMES LTDA é um portal de entretenimento online que proporciona aos seus usuários uma experiência diferenciada com uma ampla gama de jogos digitais.",
       "foto": "1",
       "github": "https://github.com/Davidmulder/theproblems-perfil",
-      "texto": "<h4>Objetivos</h4>Criação portal de jogos para usuários a partir de 14 anos, se tornando a maior central de jogos online de Criciúma. Fazendo parte do grupo de youtubers theproblems.<br><br><h4>Tecnologia usada</h4>Em sua maior parte, o projeto foi desenvolvido com o framework Laravel 5.6, utilizando boas práticas no código e segurança em nuvem. A equipe era composta por desenvolvedores de jogos e programadores, e eu atuei como programador sênior.<br><br><strong>Tecnologias:</strong><br>⚛️ PHP puro para servidor Linux<br>⚛️ Laravel para login, senha e controle de usuário<br>💹 JQuery para animações<br>💹 MySQL como banco de dados<br>💹 APIs para consulta de jogos em outras plataformas<br><br><h3>Modelos</h3>Todos os direitos autorais pertencem à DevConnection Criciúma. Modelo apenas ilustrativo."
+      "texto": ""
    
               
    
@@ -116,7 +116,7 @@
       "legenda": "Lista de jogos lendo banco de dados mysql com framework Flask (Python)",
       "foto": "2",
       "github": "https://github.com/Davidmulder/ListadeJogos",
-      "texto": "<h3>Objetivos</h3>Criação de lista de jogos ligada ao banco de dados MySQL.<br>Proteção de usuário.<br>CRUD (cadastro, edição, deleção, listagem).<br>Utilização de rotas.<br>Validação de formulário com Flask WTF.<br>Criptografia das senhas com BCRYPT.<br><h2>Tecnologia usada</h2><br>⚛️ Framework Flask.<br>⚛️ PHP para servidor Linux.<br>⚛️ JQuery para animações.<br>💹 MySQL como banco de dados.<br>"
+      "texto": ""
      
    
    },
@@ -127,7 +127,7 @@
       "legenda": "Feito todo em React com Json",
       "foto": "3",
       "github": "https://github.com/Davidmulder/curriculumprogramador",
-      "texto": "<h3>Objetivos</h3>Criação Portifolio em React Native <br>Projetos realizado com links ao github.<br>"
+      "texto": ""
      
    
    },
@@ -138,7 +138,7 @@
       "legenda": "Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca ",
       "foto": "13",
       "github": "https://github.com/Davidmulder/petshopsansao",
-      "texto": "<h2>Hospedado</h2>  vercel https://petshopsansao.vercel.app/ <br><br><h2>📖 Descrição do Projeto</h2><br>Este projeto simula uma loja online para pets, focando na exibição de produtos, acessórios e promoções.<br> Além disso, ele se destaca por apresentar boas práticas de estilização e otimização no desenvolvimento de Single Page Applications (SPA).Tecnologias utilizadas: React - Framework JavaScript para construção da interface de usuário.<br>Vite - Ferramenta de build e desenvolvimento mais rápida que o CRA (Create React App)<br>.Styled Components - Biblioteca para estilização em CSS, dentro do JS.<br><br><br>"
+      "texto": ""
      
    
    },
@@ -148,7 +148,7 @@
       "legenda": "Um site de notícias e informações sobre o mundo dos Games, desenvolvido em React Native. Este projeto foi criado para fornecer uma experiência dinâmica e interativa para gamers que desejam se manter atualizados sobre as últimas novidades, jogos e tendências da indústria dos games. ",
       "foto": "14",
       "github": "https://github.com/Davidmulder/topgames",
-      "texto": "<h2>Hospedado</h2>  vercel https://topgames-rho.vercel.app/ <br><br><h2>Introdução:</h2><br>•Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . <br>É Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca. Diferencie o Vite do CRA e conheça as vantagens do uso do Styled Components Utilize styled-components para criação de uma NavBar e estilização de um banner Projete e implemente componentes React para exibir imagens e legendas Aplique estilos personalizados e acessíveis para uma galeria de fotos Adicione uma barra lateral de imagens populares e footer <br><br><br>"
+      "texto": ""
      
    
    }
