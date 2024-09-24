@@ -11,7 +11,7 @@ export default function Banner(){
            <h1 className={styles.titulo}> David Orion </h1> 
 
            <p className={styles.paragrafo}>
-           Desenvolvedor Full Stack | Laravel | WordPress | PHP | Power BI | Looker studio | Python | Angula | Flash | Django | Golang | React Native
+           Desenvolvedor Full Stack | Laravel | PHP | Python | React | Golang | Django | Power BI | APIs RESTful | Soluções Escaláveis
            </p>            
          </div> 
 

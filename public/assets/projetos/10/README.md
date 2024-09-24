@@ -2,11 +2,13 @@
 <br>
   <img src="/assets/projetos/10/img/logo.jpg" alt="TinDev" width="120">
 <br>
-<br>
-Mercadão  liberal
+Projeto: Mercadão Liberal
 </h1>
 
-<p align="center">Projetos desenvolvido pela equipe de desenvolvimento com objetivo de disponibilizar os anuncios impresso do jornal O Liberal para web e mobile</p>
+<p align="center">O Mercadão Liberal foi desenvolvido pela equipe de tecnologia do Grupo O Liberal com o objetivo 
+de migrar os anúncios impressos do jornal. 
+O Liberal para as plataformas web e mobile. O projeto, lançado em 2020 em Belém do Pará, modernizou o acesso aos anúncios classificados, 
+proporcionando uma experiência digital eficiente para os leitores e anunciantes.</p>
 
 <p align="center">
   <a href="http://classificados.oliberal.com.br/">
@@ -22,6 +24,34 @@ Mercadão  liberal
 </div>
 
 <hr />
+
+ ### Descrição do Projeto 
+```sh
+Este projeto foi essencial para a transformação digital do jornal, permitindo a visualização de anúncios classificados online, 
+de forma acessível em múltiplos dispositivos. 
+A solução envolveu o desenvolvimento de um front-end em PHP e um back-end robusto em ASP, 
+integrando o sistema ao banco de dados Oracle.
+
+```
+
+ ### Tecnologias Utilizadas
+```sh
+Front-end: Desenvolvido em PHP para garantir uma interface web funcional e responsiva.
+Back-end: Utilização de ASP para a lógica de negócios e integração com o banco de dados.
+Banco de Dados: Sistema Oracle para armazenar e gerenciar os dados de anúncios.
+API REST: Criada para fornecer endpoints de comunicação entre as diferentes partes do sistema, 
+incluindo o front-end e o back-end.
+Gateway de Pagamento: Integração com o PagSeguro para a gestão segura de pagamentos online.
+```
+
+ ### Funcionalidades Principais
+```sh
+Exibição dos anúncios impressos do jornal O Liberal em formato digital.
+Plataforma acessível tanto em dispositivos web quanto mobile.
+Pagamentos seguros através da integração com o PagSeguro.
+Sistema escalável e confiável, lançado para o público em 2020.
+```
+
 
 ## Tecnologia usada
 
