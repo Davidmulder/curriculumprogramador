@@ -151,6 +151,17 @@
       "texto": ""
      
    
+   },
+
+   {
+      "id":15,
+      "titulo": "Matrix Tecnologia -  (REACT + Spring Boot)",
+      "legenda": "Este é um sistema de gestão de contratos, desenvolvido para fins de avaliação, que utiliza **React** no frontend para a interface de usuário e **Spring boot** no backend para a leitura e manipulação de dados. O sistema permite a exibição de uma lista de contratos , além de funcionalidades para cadastrar novos contratos. ",
+      "foto": "15",
+      "github": "https://github.com/Davidmulder/Matrix-tecnologia",
+      "texto": ""
+     
+   
    }
    
 
