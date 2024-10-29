@@ -2,17 +2,20 @@
     display: flex;
     justify-content: center;
     gap: 2rem; /* Espaço entre as imagens */
+    flex-wrap: wrap; /* Permite que as imagens se movam para a próxima linha em telas pequenas */
     padding: 2rem;
 }
 
 .imagemItem {
     text-align: center; /* Centraliza o texto (título e legenda) em relação à imagem */
+    margin-bottom: 20px; /* Espaço abaixo de cada item */
 }
 
 .imagemCentralizada {
-    width: 100%;
-    max-width: 800px; /* Reduzido para 50% do tamanho original */
-    height: auto;
+    width: 100%; /* Faz com que a imagem ocupe 100% do espaço disponível */
+    max-width: 800px; /* Limita a largura máxima da imagem */
+    height: auto; /* Mantém a proporção */
+    border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 1rem; /* Espaço entre a imagem e a legenda */
 }
 
@@ -23,37 +26,21 @@
 
 .readmeContainer {
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center;     /* Centraliza verticalmente */
     flex-direction: column;
-    max-width: 800px;        /* Define uma largura máxima para a área do README */
-    margin: 50px auto;       /* Centraliza a div na página */
+    align-items: center; /* Centraliza o conteúdo horizontalmente */
+    max-width: 800px;
+    margin: 50px auto;
     padding: 20px;
-    background-color: #f9f9f9; /* Cor de fundo para destaque */
+    background-color: #f9f9f9; /* Cor de fundo */
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    word-wrap: break-word; /* Quebra de linha para evitar transbordamento */
 }
 
 .readmeContainer div {
     width: 100%;
     line-height: 1.6;
 }
-
-.imagemItem {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.imagemCentralizada {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
-
-
-
-
 
 .post-markdown-container h3,
 .post-markdown-container h4,
@@ -73,10 +60,10 @@
 }
 
 .post-markdown-container p {
-    text-align: justify;
     font-size: 1.5rem;
     line-height: 2.25rem;
     margin-bottom: 1.5rem;
+    text-align: justify;
 }
 
 .post-markdown-container a {
@@ -85,8 +72,9 @@
 }
 
 .post-markdown-container img {
-    display: block;
-    margin: 0 auto;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura da tela */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Bordas arredondadas */
 }
 
 .post-markdown-container ul {
@@ -107,7 +95,7 @@
 }
 
 .post-markdown-container pre {
-    overflow-x: auto;
+    overflow-x: auto; /* Permite rolagem horizontal para conteúdo largo */
 }
 
 @media (max-width: 1100px) {
@@ -126,11 +114,10 @@
     .post-markdown-container p {
         font-size: 1rem;
         line-height: 1.75rem;
+        text-align: left; /* Alinhamento à esquerda para melhor legibilidade */
     }
 
-    
-
-
-
-
+    .imagemCentralizada {
+        max-width: 90%; /* Garante que as imagens tenham uma margem em volta em telas pequenas */
+    }
 }

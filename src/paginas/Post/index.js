@@ -47,8 +47,8 @@ export default function Post(){
 
     return(
         <PostModelo        
-        titulo={post.titulo}
-        >   <h4>Repositorio GITHUB  ( {post.github} )</h4>            
+       // titulo={post.titulo}
+        >             
           
            
              {/* Div centralizada com o conteúdo do README */}
@@ -56,6 +56,7 @@ export default function Post(){
                 <div dangerouslySetInnerHTML={{ __html: readmeContent }}></div>
             </div>
             
+            <div className="readmeContainer">Repositorio GITHUB  ( {post.github} )</div>  
               
            
             
