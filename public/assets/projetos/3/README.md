@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="120">
+  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="30%">
 <br>
 <br>
 🌐 Meu Site Pessoal - Portfólio Profissional
@@ -19,20 +19,20 @@ Este projeto foi desenvolvido com o objetivo de criar uma aplicação moderna e 
 
 ### Apresentação
 
-<img src="/assets/projetos/3/img/capa.png" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/3/img/capa.png" alt="web" align="center" width="100%"><br>
 
 ### Home
 
 
-  <img src="/assets/projetos/3/img/home.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/3/img/home.png" alt="web" align="center" width="100%"><br>
 
   ### Internas
 
-  <img src="/assets/projetos/3/img/projetos.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/3/img/projetos.png" alt="web" align="center" width="100%"><br>
 
    ### Sobre MIM
 
-  <img src="/assets/projetos/3/img/sobremim.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/3/img/sobremim.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

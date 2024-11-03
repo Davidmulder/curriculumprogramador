@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/11/img/logo.png"  width="120">
+  <img src="/assets/projetos/11/img/logo.png"  width="30%">
 <br>
 <br>
 Corrida do Sal
@@ -17,9 +17,9 @@ Projetos desenvolvido pela equipe de desenvolvimento com objetivo de fazer a cob
 </p>
 
 <div align="center">
-  <img src="/assets/projetos/11/img/home2.png" alt="mobile" align="center" width="300"><br><br>
+  <img src="/assets/projetos/11/img/home2.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/11/img/Animação.gif" alt="animação" align="center" height="425">
+  <img src="/assets/projetos/11/img/Animação.gif" alt="animação" align="center" width="100%">
 
 
 </div>

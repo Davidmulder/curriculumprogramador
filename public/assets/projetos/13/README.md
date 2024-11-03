@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/13/img/logo lateral.png"  width="300">
+  <img src="/assets/projetos/13/img/logo lateral.png"  width="30%">
 <br>
 <br>
 🐾 Sansão PET - Meu Melhor Amigo 🐕‍🦺
@@ -18,19 +18,20 @@ e melhores práticas de design de componentes.</p>
 </p>
 
 <div align="center">
+
 ### Home
 
-  <img src="/assets/projetos/13/img/home.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/13/img/home.png" alt="web" align="center" width="100%"><br>
 
-  <img src="/assets/projetos/13/img/home2.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/13/img/home2.png" alt="web" align="center" width="100%"><br>
 
   ### Pagina inteira
 
-  <img src="/assets/projetos/13/img/inteira.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/13/img/inteira.png" alt="web" align="center" width="100%"><br>
 
    ### Carinho de compra
 
-  <img src="/assets/projetos/13/img/carrinho.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/13/img/carrinho.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/4/img/logo.jpg" alt="mobile" align="center" height="120">
+  <img src="/assets/projetos/4/img/logo.jpg" alt="mobile" align="center" width="30%">
 <br>
 <br>
 🌐 Dashbord desenpenho de campanha em Rede Social - MKS Agência
@@ -21,25 +21,25 @@ Origem de dados foi teste de uma vagar com Analista BI,dados entregue e formato 
 
 
 
-<img src="/assets/projetos/4/img/01.png" alt="mobile" align="center" height="425"><br><br>
+<img src="/assets/projetos/4/img/01.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/02.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/02.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/03.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/03.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/04.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/04.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/aplicativoanalistico2 .gif" alt="animaÃ§Ã£o" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/aplicativoanalistico2 .gif" alt="animaÃ§Ã£o" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/05.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/05.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/06.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/06.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/07.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/07.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/08.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/08.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/4/img/09.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/4/img/09.png" alt="mobile" align="center" width="100%"><br><br>
 
 </div>
 

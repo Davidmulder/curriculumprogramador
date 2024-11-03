@@ -17,15 +17,15 @@ Lista de jogos lendo banco de dados mysql com framework Flask (Python)
 ### Home
 
 
-  <img src="/assets/projetos/2/img/home.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/2/img/home.png" alt="web" align="center" width="100%"><br>
 
   ### Lista de Jogos
 
-  <img src="/assets/projetos/2/img/lista.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/2/img/lista.png" alt="web" align="center" width="100%"><br>
 
    ### Area de login
 
-  <img src="/assets/projetos/2/img/login.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/2/img/login.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

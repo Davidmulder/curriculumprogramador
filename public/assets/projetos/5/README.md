@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="120">
+  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="30%">
 <br>
 <br>
  Dashbord em Power BI
@@ -27,15 +27,15 @@ Apresente um documento em Word ou PDF explicando sucintamente o raciocínio util
 
 <div align="center">
 
-<img src="/assets/projetos/5/img/aplicativoanalistico .gif" alt="animação" align="center" height="425"><br><br>
+<img src="/assets/projetos/5/img/aplicativoanalistico .gif" alt="animação" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/5/img/logo.png" alt="mobile" align="center" height="120"><br><br>
+  <img src="/assets/projetos/5/img/logo.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/5/img/diagrama.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/5/img/diagrama.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/5/img/01.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/5/img/01.png" alt="mobile" align="center" width="100%"><br><br>
 
-  <img src="/assets/projetos/5/img/02.png" alt="mobile" align="center" height="425"><br><br>
+  <img src="/assets/projetos/5/img/02.png" alt="mobile" align="center" width="100%"><br><br>
 
 </div>
 

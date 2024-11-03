@@ -101,7 +101,7 @@
    
    {
       "id":10,
-      "titulo": "PROBLEMS GAMES LTDA - (PHP) LARAVEL",
+      "titulo": "PROBLEMS GAMES (PHP) LARAVEL",
       "legenda": "O PROBLEMS GAMES LTDA é um portal de entretenimento online que proporciona aos seus usuários uma experiência diferenciada com uma ampla gama de jogos digitais.",
       "foto": "1",
       "github": "https://github.com/Davidmulder/theproblems-perfil",
@@ -112,7 +112,7 @@
    },
    {
       "id":11,
-      "titulo": "LISTA DE JOGOS EM FLASK - (Python) Flask",
+      "titulo": "JOGOS EM FLASK - (Python) Flask",
       "legenda": "Lista de jogos lendo banco de dados mysql com framework Flask (Python)",
       "foto": "2",
       "github": "https://github.com/Davidmulder/ListadeJogos",
@@ -123,7 +123,7 @@
    
    {
       "id":12,
-      "titulo": "Site do Desenvolvedor - (React + Json)",
+      "titulo": "Site Pessoal - (React + Json)",
       "legenda": "Feito todo em React com Json",
       "foto": "3",
       "github": "https://github.com/Davidmulder/curriculumprogramador",
@@ -155,10 +155,21 @@
 
    {
       "id":15,
-      "titulo": "Matrix Tecnologia -  (REACT + Spring Boot)",
+      "titulo": "Contratos (REACT + Spring Boot)",
       "legenda": "Este é um sistema de gestão de contratos, desenvolvido para fins de avaliação, que utiliza **React** no frontend para a interface de usuário e **Spring boot** no backend para a leitura e manipulação de dados. O sistema permite a exibição de uma lista de contratos , além de funcionalidades para cadastrar novos contratos. ",
       "foto": "15",
       "github": "https://github.com/Davidmulder/Matrix-tecnologia",
+      "texto": ""
+     
+   
+   },
+
+   {
+      "id":16,
+      "titulo": "Veterinaria - React & Laravel",
+      "legenda": "Este é um sistema de gestão de contratos, desenvolvido para fins de avaliação, que utiliza **React** no frontend para a interface de usuário e **Spring boot** no backend para a leitura e manipulação de dados. O sistema permite a exibição de uma lista de contratos , além de funcionalidades para cadastrar novos contratos. ",
+      "foto": "16",
+      "github": "https://github.com/Davidmulder/ConsultaPet",
       "texto": ""
      
    

@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="120">
+  <img src="https://avatars.githubusercontent.com/u/34238744?v=4" alt="TinDev" width="30%">
 <br>
 <br>
 BestMilhas
@@ -16,7 +16,7 @@ Projeto de auste de passagens</p>
 </p>
 
 <div align="center">
-  <img src="/assets/projetos/6/img/home.jpg" alt="web" align="center" width="525"><br><br>
+  <img src="/assets/projetos/6/img/home.jpg" alt="web" align="center" width="100%"><br><br>
  
 
 

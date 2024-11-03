@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/9/img/logo.png"  width="120">
+  <img src="/assets/projetos/9/img/logo.png"  width="30%">
 <br>
 <br>
 Para Turismo
@@ -16,7 +16,7 @@ Projeto feito pela alura apenas para exercita conhecimentos no framework wordpre
 </p>
 
 <div align="center">
-  <img src="/assets/projetos/9/img/home.png" alt="web" align="center" width="525"><br><br>
+  <img src="/assets/projetos/9/img/home.png" alt="web" align="center" width="100%"><br><br>
  
 
 
@@ -30,7 +30,8 @@ Usado do php puro, no servidor linux
 
 - ⚛️ **Javascript** — animações
 - ⚛️ **PHP** — PHP para servidor linux
-- 💹 **Worpress** — framework, Elementor,Smart Slider 3(galeria)VVAme chat(chat whatzap)Essential Addons for Elementor (intergração com post) 
+- 💹 **Worpress** — framework, Elementor,Smart Slider 3(galeria)VVAme chat(chat whatzap)
+Essential Addons for Elementor (intergração com post) 
 - 💹 **MYSQL** — BD para conteudo
 
 

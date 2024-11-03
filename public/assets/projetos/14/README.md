@@ -19,20 +19,20 @@ Bem-vindo ao Top Games, um site de notícias e informações sobre o mundo dos G
 
 ### Apresentação
 
-<img src="/assets/projetos/14/img/capa.png" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/14/img/capa.png" alt="web" align="center" width="100%"><br>
 
 ### Categoria
 
 
-  <img src="/assets/projetos/14/img/categoria.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/14/img/categoria.png" alt="web" align="center" width="100%"><br>
 
   ### Lateral
 
-  <img src="/assets/projetos/14/img/lateral.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/14/img/lateral.png" alt="web" align="center" width="100%"><br>
 
    ### Inteira
 
-  <img src="/assets/projetos/14/img/capa.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/14/img/capa.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

@@ -20,32 +20,32 @@ Este é um sistema de gestão de contratos, desenvolvido para fins de avaliaçã
 
 ### Login
 
-<img src="/assets/projetos/15/img/login.png" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/15/img/login.png" alt="web" align="center" width="100%"><br>
 
 ### Contratos
 
 
   <img src="/assets/projetos/15/img/contratos.png" alt="web" align="center" 
-  width="525"><br>
+  width="100%"><br>
 
  
 
   ### Cadastro de Contratos
 
-  <img src="/assets/projetos/15/img/cadastrocontrato.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/15/img/cadastrocontrato.png" alt="web" align="center" width="100%"><br>
 
    ### Usuarios
 
-  <img src="/assets/projetos/15/img/usuarios.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/15/img/usuarios.png" alt="web" align="center" width="100%"><br>
 
  ### Cadastro de Usuarios
-  <img src="/assets/projetos/15/img/cadastrousuario.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/15/img/cadastrousuario.png" alt="web" align="center" width="100%"><br>
 
 ### Erro 404
-<img src="/assets/projetos/15/img/erro404.png" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/15/img/erro404.png" alt="web" align="center" width="100%"><br>
 
 ### Spring boot
-<img src="/assets/projetos/15/img/backend API.png" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/15/img/backend API.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

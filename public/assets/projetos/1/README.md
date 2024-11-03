@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/assets/projetos/1/img/logo.png"  width="120">
+  <img src="/assets/projetos/1/img/logo.png"  width="30%">
 <br>
 <br>
 PROBLEMS GAMES LTDA
@@ -19,20 +19,20 @@ O PROBLEMS GAMES LTDA é um portal de entretenimento online que proporciona aos 
 
 ### Apresentação
 
-<img src="/assets/projetos/1/img/theproblens.gif" alt="web" align="center" width="525"><br>
+<img src="/assets/projetos/1/img/theproblens.gif" alt="web" align="center" width="100%"><br>
 
 ### Home
 
 
-  <img src="/assets/projetos/1/img/home.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/1/img/home.png" alt="web" align="center" width="100%"><br>
 
   ### Internas
 
-  <img src="/assets/projetos/1/img/interna3.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/1/img/interna3.png" alt="web" align="center" width="100%"><br>
 
    ### Rank de Jogadores
 
-  <img src="/assets/projetos/1/img/interna01.png" alt="web" align="center" width="525"><br>
+  <img src="/assets/projetos/1/img/interna01.png" alt="web" align="center" width="100%"><br>
   
   <br> 
 

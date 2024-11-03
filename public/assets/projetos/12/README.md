@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <img src="/assets/projetos/12/img/logo.png" alt="PDV" width="120">
+  <img src="/assets/projetos/12/img/logo.png" alt="PDV" width="30%">
 <br>
 <hr />
 SOMECDH PPDH
@@ -17,14 +17,14 @@ Não foi usado nenhum framework apenas php e banco mysql
   </a>
 </p>
 
-<img src="/assets/projetos/12/img/aplicativoanalistico .gif" alt="animação" height='400px' align="center" height="425">
+<img src="/assets/projetos/12/img/aplicativoanalistico .gif" alt="animação"  align="center" width="100%">
 <br><br>
-<img src="/assets/projetos/12/img/01.png" alt="PDV" height='400px' >
+<img src="/assets/projetos/12/img/01.png" alt="PDV" width="100%" >
 <br><br>
-<img src="/assets/projetos/12/img/02.png" alt="PDV"  height='400px'>
+<img src="/assets/projetos/12/img/02.png" alt="PDV"  width="100%">
 <br>
 <br>
-<img src="/assets/projetos/12/img/1.png" alt="PDV" height='400px' >
+<img src="/assets/projetos/12/img/1.png" alt="PDV" width="100%" >
 
 
 ## Tecnologia usada
