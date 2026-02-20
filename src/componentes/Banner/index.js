@@ -11,7 +11,7 @@ export default function Banner(){
            <h1 className={styles.titulo}> David Orion </h1> 
 
            <p className={styles.paragrafo}>
-           Desenvolvedor Full Stack | Laravel | PHP | Python | Spring Boot | React | Golang | Django | Power BI | APIs RESTful | Soluções Escaláveis
+           Engenheiro de Software Sênior | Arquitetura SaaS & Marketplace | Laravel . Symfony . Zend . PHP |Django . Python | Spring Boot | React | Golang | Angula | REST Escaláveis | APIs RESTful | Soluções Escaláveis| ASP Classic
            </p>            
          </div> 
 

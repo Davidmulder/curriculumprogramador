@@ -173,8 +173,18 @@
       "texto": ""
      
    
-   }
+   },
    
+   {
+      "id":17,
+      "titulo": "PetCare - Framework Angula",
+      "legenda": "Aplicação desenvolvida em Angular para agendamento de serviços de pet shop (cães e gatos), utilizando JSON como simulação de API e persistência com localStorage. ",
+      "foto": "17",
+      "github": "https://github.com/Davidmulder/Petcare",
+      "texto": ""
+     
+   
+   }
 
 
 ]
